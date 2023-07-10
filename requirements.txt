@@ -1,0 +1,7 @@
+transformers
+sentence-transformers
+networkx
+torch>=1.12
+torch-geometric
+numpy
+sklearn
